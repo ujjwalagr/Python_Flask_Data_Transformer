@@ -1,0 +1,124 @@
+data [
+    {'Id': 1, 'Name': 'jenny', 'DOB': 1965-10-28, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit1', 'chemistry': 44, 'Hindi': 41, 'score': 85
+            },
+            {'Exam': 'unit4', 'Geography': 45, 'Physics': 31, 'score': 76
+            },
+            {'Exam': 'unit2', 'Economics': 33, 'score': 68
+            },
+            {'Exam': 'unit4', 'Biology': 35, 'chemistry': 42, 'score': 77
+            }
+        ]
+    },
+    {'Id': 2, 'Name': 'shruti', 'DOB': 1977-03-11, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit1', 'English': 49, 'Physics': 50, 'score': 99
+            },
+            {'Exam': 'unit2', 'Physics': 37, 'Economics': 46, 'score': 83
+            },
+            {'Exam': 'unit4', 'Geography': 48, 'Economics': 47, 'score': 95
+            },
+            {'Exam': 'unit2', 'Geography': 33, 'Physics': 47, 'score': 80
+            }
+        ]
+    },
+    {'Id': 3, 'Name': 'ritika', 'DOB': 1984-10-18, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit2', 'Economics': 34, 'Physics': 39, 'score': 73
+            },
+            {'Exam': 'unit1', 'Hindi': 34, 'Physics': 30, 'score': 64
+            },
+            {'Exam': 'unit4', 'Physics': 41, 'English': 38, 'score': 79
+            },
+            {'Exam': 'unit4', 'Geography': 45, 'Economics': 30, 'score': 75
+            }
+        ]
+    },
+    {'Id': 4, 'Name': 'riyan', 'DOB': 1960-9-13, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit2', 'Physics': 41, 'Biology': 33, 'score': 74
+            },
+            {'Exam': 'unit2', 'Maths': 46, 'Geography': 49, 'score': 95
+            },
+            {'Exam': 'unit4', 'Hindi': 50, 'chemistry': 38, 'score': 88
+            },
+            {'Exam': 'unit1', 'Geography': 34, 'English': 41, 'score': 75
+            }
+        ]
+    },
+    {'Id': 5, 'Name': 'riyan', 'DOB': 1980-3-18, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit2', 'chemistry': 37, 'Biology': 37, 'score': 74
+            },
+            {'Exam': 'unit3', 'Maths': 49, 'Hindi': 40, 'score': 89
+            },
+            {'Exam': 'unit2', 'Geography': 36, 'Maths': 35, 'score': 71
+            },
+            {'Exam': 'unit1', 'Geography': 31, 'Economics': 47, 'score': 78
+            }
+        ]
+    },
+    {'Id': 6, 'Name': 'ritika', 'DOB':   (1975,
+        3,
+        10), 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit4', 'Hindi': 42, 'score': 85
+            },
+            {'Exam': 'unit1', 'Economics': 38, 'score': 68
+            },
+            {'Exam': 'unit1', 'Hindi': 35, 'score': 80
+            },
+            {'Exam': 'unit3', 'English': 34, 'Maths': 49, 'score': 83
+            }
+        ]
+    },
+    {'Id': 7, 'Name': 'ritika', 'DOB': 1990-01-22, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit1', 'Economics': 37, 'English': 44, 'score': 81
+            },
+            {'Exam': 'unit2', 'Economics': 37, 'score': 82
+            },
+            {'Exam': 'unit3', 'Biology': 44, 'Physics': 47, 'score': 91
+            },
+            {'Exam': 'unit3', 'English': 31, 'score': 61
+            }
+        ]
+    },
+    {'Id': 8, 'Name': 'ritika', 'DOB': 1983-06-16, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit3', 'Physics': 38, 'Geography': 48, 'score': 86
+            },
+            {'Exam': 'unit4', 'Geography': 45, 'English': 44, 'score': 89
+            },
+            {'Exam': 'unit1', 'Hindi': 47, 'chemistry': 40, 'score': 87
+            },
+            {'Exam': 'unit3', 'Hindi': 43, 'Maths': 39, 'score': 82
+            }
+        ]
+    },
+    {'Id': 9, 'Name': 'jenny', 'DOB': 1994-01-17, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit3', 'Hindi': 37, 'chemistry': 45, 'score': 82
+            },
+            {'Exam': 'unit2', 'Economics': 37, 'English': 45, 'score': 82
+            },
+            {'Exam': 'unit1', 'chemistry': 35, 'Maths': 34, 'score': 69
+            },
+            {'Exam': 'unit2', 'Maths': 34, 'English': 50, 'score': 84
+            }
+        ]
+    },
+    {'Id': 10, 'Name': 'ritika', 'DOB': 1985-8-5, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+        }, 'Scores': [
+            {'Exam': 'unit4', 'Hindi': 37, 'chemistry': 42, 'score': 79
+            },
+            {'Exam': 'unit2', 'Maths': 39, 'Physics': 37, 'score': 76
+            },
+            {'Exam': 'unit1', 'Biology': 45, 'Maths': 41, 'score': 86
+            },
+            {'Exam': 'unit2', 'Hindi': 37, 'score': 81
+            }
+        ]
+    }
+]
