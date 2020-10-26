@@ -1,5 +1,5 @@
-data [
-    {'Id': 1, 'Name': 'jenny', 'DOB': 1965-10-28, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+"data": [
+    {'Id': 1, 'Name': 'jenny', 'DOB': '1965-10-28', 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
         }, 'Scores': [
             {'Exam': 'unit1', 'chemistry': 44, 'Hindi': 41, 'score': 85
             },
@@ -11,7 +11,7 @@ data [
             }
         ]
     },
-    {'Id': 2, 'Name': 'shruti', 'DOB': 1977-03-11, 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
+    {'Id': 2, 'Name': 'shruti', 'DOB': '1977-03-11', 'PhysicalFeature': {'Height': 5, 'Weight': 53, 'Age': 32
         }, 'Scores': [
             {'Exam': 'unit1', 'English': 49, 'Physics': 50, 'score': 99
             },
